@@ -1,7 +1,8 @@
 .jumbotron{
 	padding-top: 70px;
-	background-color: #e0f7ff;
+	background-color: #ffd700;
 }
+
 
 body{
 	font-family: 'Poppins', sans-serif;
@@ -12,7 +13,7 @@ body{
 }
 
 #gallery{
-	background-color: #e0f7ff;
+	background-color: #ffd700;
 }
 
 footer a{
@@ -26,4 +27,38 @@ footer{
 
 section{
 	padding-top: 70px;
+}
+
+.table{
+	width: 60%;
+	/*position: relative;
+	left: 100px;
+	list-style-type: none;*/
+}
+
+#about{
+	background-color: #ffd700;
+	padding-top: 50px;
+}
+
+#contact{
+	background-color: #ffd700;
+	padding-top: 30px;
+}
+
+#container{
+	margin-top: 20px;
+}
+
+#about p{
+	margin-left: 180px;
+}
+
+#about h4{
+	margin-bottom: 10px;
+	margin-left: 180px;
+}
+
+#education{
+	padding-bottom: 70px;
 }
